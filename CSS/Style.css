@@ -1,0 +1,38 @@
+#navbarDropdown{
+                color: white;
+}
+#phone{
+                color: white; font-size: medium;
+}
+#banner{
+               text-align: center; background-color:rgb(25, 29, 32); padding: 2ch
+}
+#bannercom{
+            background-color: rgb(255, 255, 255); padding: 2ch;
+}
+#carouselExampleIndicators{
+            padding: 2ch;
+}
+#carouselExampleCaptions{
+    padding: 2ch;
+}
+
+#text{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: dimgray; font-size: large;}
+
+footer, .footer-top, .footer-bottom {
+    background: #000;
+    color: #FFF;
+}
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+  /* rtl:begin:ignore */
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
